@@ -9,3 +9,5 @@ def MultipleSum(n):
 if __name__ == '__main__':
     result = MultipleSum(1000)
     print(result)
+
+# Time Complexitity = O(n)
